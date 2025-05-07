@@ -1,0 +1,2 @@
+# InformationSystemforTrades
+Assignment
